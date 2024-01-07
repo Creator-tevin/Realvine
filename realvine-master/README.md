@@ -11,9 +11,9 @@
 
   <h2 align="center">Realvine - Real estate website</h2>
 
-  Realvine is a fully responsive real estate website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Realvine is a fully responsive real estate website.
 
-  <a href="https://codewithsadee.github.io/realvine/"><strong>➥ Live Demo</strong></a>
+  <a href="https://creator-tevin.github.io/realvine/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -44,10 +44,6 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/realvine.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
